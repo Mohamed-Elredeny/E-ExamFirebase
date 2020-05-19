@@ -1,0 +1,20 @@
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.14.3/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyAIYUENK8g7JCNKnmbJlrJtah2heR-e0N4",
+    authDomain: "e-exam-ad982.firebaseapp.com",
+    databaseURL: "https://e-exam-ad982.firebaseio.com",
+    projectId: "e-exam-ad982",
+    storageBucket: "e-exam-ad982.appspot.com",
+    messagingSenderId: "1022606957901",
+    appId: "1:1022606957901:web:259cb8b39fa4315808eb04"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+</script>
